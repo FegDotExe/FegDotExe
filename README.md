@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Who I am
-I'm a 19yo Italian student, currently studying information engigneering at the university of Padua (Padova, here in Italy).
+I'm a 20yo Italian student, currently studying information engigneering at the university of Padua (Padova, here in Italy).
 
 I program random things which come to my mind and which I find to be either useful or entertaining to program: this can span from a quiz utility for jupyter notebook so that I can revise calculus to a pseudo game engine built on top of pygame.
 
