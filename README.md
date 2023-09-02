@@ -21,7 +21,7 @@ At the same time, I'm slowly but surely learning:
 - Go
 - C
 
-And, if you were wondering, I'm self-taught on all of these except for java, which I am still learning at the University
+And, if you were wondering, I'm self-taught on all of these except for java, which I learned about at Uni
 
 <!--
 **FegDotExe/FegDotExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
